@@ -1,0 +1,6 @@
+selenium>=4.34.2
+python-telegram-bot==20.7
+webdriver-manager>=4.0.2
+chromedriver-autoinstaller>=0.6.4
+trafilatura>=2.0.0
+telegram>=0.0.1
